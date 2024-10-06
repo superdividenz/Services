@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Build and production output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Miscellaneous
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.lock
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Coverage directory (for test coverage reports)
+coverage/
+
+# Cache and dependency directories
+.cache/
+.pnp.js
+.pnp/
+.pnp.cjs
+
+# Compiled source files
+*.tsbuildinfo
+
+# Jest and testing related
+jest/
+
+# ESLint cache
+.eslintcache
+
+# Parcel-bundler cache
+.cache/
+
+# VS Code settings (optional)
+.vscode/
+
+# Storybook files
+storybook-static/
